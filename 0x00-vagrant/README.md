@@ -1,1 +1,1 @@
-Shows What Does The Command *uname* Print when you run it without any option 
+What does the command *uname* print when you run it without any option? 
