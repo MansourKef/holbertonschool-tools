@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty * join chgrp holberton *
+chown betty:holberton *
