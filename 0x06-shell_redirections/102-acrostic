@@ -1,2 +1,2 @@
 #!/bin/bash
-command | cut -c1-1
+command | cut -c1-1 | printf '\n'
